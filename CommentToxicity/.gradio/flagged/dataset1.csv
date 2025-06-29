@@ -1,0 +1,8 @@
+Input Comment,Toxicity Result,timestamp
+you are a bitch,"toxic: False
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+",2025-06-29 14:45:00.359334
