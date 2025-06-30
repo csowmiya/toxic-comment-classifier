@@ -1,5 +1,5 @@
 Input Comment,Toxicity Result,timestamp
-you are a bitch,"toxic: False
+you are a bitch,"toxic: true
 severe_toxic: False
 obscene: False
 threat: False
