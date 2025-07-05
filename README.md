@@ -1,6 +1,16 @@
 # Toxic Comment Classifier  
 **Real-time Text Toxicity Detection System using Deep Learning**
 
+###  Table of Contents
+- [ Overview](#-overview)  
+- [ Key Features](#-key-features)  
+- [ Machine Learning Model](#-machine-learning-model)  
+- [ Tech Stack](#-tech-stack)  
+- [ Project Flow](#-project-flow)  
+- [ Installation & Setup](#-installation--setup)
+- [ Screenshots](#-screenshots)
+
+  
 ## Overview
 
 **Toxic Comment Classifier** is a deep learning-based web application that identifies and classifies toxic language in real-time user-generated text. It helps detect offensive, hateful, or abusive content—supporting safer online communication.
@@ -76,4 +86,10 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py  # gradio UI
+
+```
+
+#Screenshots
+
+
 
