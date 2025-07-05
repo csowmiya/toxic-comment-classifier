@@ -91,5 +91,8 @@ python app.py  # gradio UI
 
 ## Screenshots
 
+![Image](https://github.com/user-attachments/assets/14b2aa80-c4eb-45dd-985a-2e55a373156f)
+
+![Image](https://github.com/user-attachments/assets/9965aa5d-af2d-45f2-8a67-34e6725c1cd8)
 
 
