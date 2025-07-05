@@ -11,7 +11,7 @@
 - [ Screenshots](#screenshots)
 
   
-## Overview
+## Intoduction
 
 **Toxic Comment Classifier** is a deep learning-based web application that identifies and classifies toxic language in real-time user-generated text. It helps detect offensive, hateful, or abusive content—supporting safer online communication.
 
@@ -25,7 +25,7 @@ This project uses a trained LSTM model to classify comments into multiple toxici
 
 ---
 
-## Key Features
+## Features
 
 - Real-time toxicity detection  
 - Multi-label classification of comment types  
@@ -89,7 +89,7 @@ python app.py  # gradio UI
 
 ```
 
-#Screenshots
+## Screenshots
 
 
 
