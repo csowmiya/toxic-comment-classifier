@@ -2,13 +2,13 @@
 **Real-time Text Toxicity Detection System using Deep Learning**
 
 ###  Table of Contents
-- [ Overview](#-Overview)  
-- [ Key Features](#-Key-Features)  
-- [ Machine Learning Model](#-Machine-learning-model)  
-- [ Tech Stack](#-tech-stack)  
-- [ Project Flow](#-project-flow)  
-- [ Installation & Setup](#-installation--setup)
-- [ Screenshots](#-screenshots)
+- [ Introduction](#introduction)  
+- [ Features](#features)  
+- [ Machine Learning Model](#machine-learning-model)  
+- [ Tech Stack](#tech-stack)  
+- [ Project Flow](#project-flow)  
+- [ Installation & Setup](#installation--setup)
+- [ Screenshots](#screenshots)
 
   
 ## Overview
