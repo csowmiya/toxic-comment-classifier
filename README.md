@@ -30,7 +30,7 @@ This project uses a trained LSTM model to classify comments into multiple toxici
 - Real-time toxicity detection  
 - Multi-label classification of comment types  
 - Text preprocessing using TensorFlow’s `TextVectorization`  
-- Clean and interactive web interface (Gradio or Flask UI)  
+- Clean and interactive web interface (Gradio)  
 - Lightweight backend with fast predictions
 
 ---
@@ -38,10 +38,10 @@ This project uses a trained LSTM model to classify comments into multiple toxici
 ## Machine Learning Model
 
 - **Model Used:** LSTM  
-- **Framework:** TensorFlow / Keras  
+- **Framework:**  TensorFlow (along with keras)  
 - **Dataset:** Kaggle's *Toxic Comment Classification Challenge*  
 - **Approach:** Multi-label binary classification  
-- **Evaluation:** Accuracy, Precision, Recall, F1-score
+- **Evaluation:** Accuracy, Precision, Recall
 
 ---
 
