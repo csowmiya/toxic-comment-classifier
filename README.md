@@ -11,7 +11,7 @@
 - [ Screenshots](#screenshots)
 
   
-## Intoduction
+## Introduction
 
 **Toxic Comment Classifier** is a deep learning-based web application that identifies and classifies toxic language in real-time user-generated text. It helps detect offensive, hateful, or abusive content—supporting safer online communication.
 
